@@ -1,16 +1,20 @@
 [
     {
-        "asset": [
+        "assets": [
+            "ICSM.obj"
+        ],
+        "description": "description du projet 1",
+        "id": 1,
+        "name": "Projet 1",
+        "team": 1
+    },
+    {
+        "assets": [
             "Balard.fbx"
         ],
-        "description": "La description de l'équipe.",
-        "id": 1,
-        "members": [
-            "Membre 1"
-        ],
-        "name": "Team",
-        "projects": [
-            1
-        ]
+        "description": "description du projet 2",
+        "id": 2,
+        "name": "Projet 2",
+        "team": 1
     }
 ]
